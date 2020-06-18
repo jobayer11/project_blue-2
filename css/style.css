@@ -61,7 +61,7 @@ float: right;
 }
 .b_content{
 	width: 50%;
-	border: 1px solid red;
+	/*border: 1px solid red;*/
 	margin-top: 200px;
 	margin-bottom: 80px;
 }
